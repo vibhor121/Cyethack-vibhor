@@ -1,0 +1,19 @@
+2025-08-22 11:04:24,353 - ProcessAgent - INFO - Process Agent initialized
+2025-08-22 11:04:24,353 - ProcessAgent - INFO - Backend URL: http://localhost:8000/api/submit/
+2025-08-22 11:04:24,353 - ProcessAgent - INFO - Collection interval: 30 seconds
+2025-08-22 11:04:24,353 - ProcessAgent - INFO - Starting continuous monitoring...
+2025-08-22 11:04:24,353 - ProcessAgent - INFO - Starting data collection...
+2025-08-22 11:04:24,355 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.8.145)
+2025-08-22 11:04:24,564 - ProcessAgent - INFO - Collected information for 325 processes
+2025-08-22 11:04:25,672 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 325, Snapshot ID: 9
+2025-08-22 11:04:25,672 - ProcessAgent - INFO - Collection cycle completed in 1.32 seconds
+2025-08-22 11:04:54,354 - ProcessAgent - INFO - Starting data collection...
+2025-08-22 11:04:54,356 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.8.145)
+2025-08-22 11:04:54,562 - ProcessAgent - INFO - Collected information for 324 processes
+2025-08-22 11:04:55,640 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 324, Snapshot ID: 10
+2025-08-22 11:04:55,640 - ProcessAgent - INFO - Collection cycle completed in 1.29 seconds
+2025-08-22 11:05:24,354 - ProcessAgent - INFO - Starting data collection...
+2025-08-22 11:05:24,357 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.8.145)
+2025-08-22 11:05:24,570 - ProcessAgent - INFO - Collected information for 326 processes
+2025-08-22 11:05:25,676 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 326, Snapshot ID: 11
+2025-08-22 11:05:25,676 - ProcessAgent - INFO - Collection cycle completed in 1.32 seconds
